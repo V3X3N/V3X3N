@@ -35,4 +35,4 @@
 
 
 <h3 align="left"> Summary:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v3x3n&show_icons=true&locale=en&layout=compact" alt="v3x3n" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v3x3n&show_icons=true&locale=en&theme=dark&layout=compact" alt="v3x3n" /></p>
