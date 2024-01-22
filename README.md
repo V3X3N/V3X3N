@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="left"> Summary:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v3x3n&show_icons=true&locale=en&theme=codeSTACKr&layout=compact" alt="v3x3n" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">Back end:</h5>
