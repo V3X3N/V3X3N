@@ -42,21 +42,21 @@
 <h2 align="left">Database:</h2>
 <p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="60"/></a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="oracle" width="60" height="60"/></a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="oracle" width="60" height="60"/></a>
 </p>
 <br>
 
 <h2 align="left">Mobile:</h2>
 <p>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" width="60" height="60"/></a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="dart" width="60" height="60"/></a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="60" height="60"/></a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="60" height="60"/></a>
 </p>
 <br>
 
 <h2 align="left">Tools:</h2>
 <p>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="60" height="60"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="bash" width="60" height="60"/></a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="bash" width="60" height="60"/></a>
     <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=idea" alt="inteliij" width="60" height="60"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="60" height="60"/></a>
