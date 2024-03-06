@@ -1,7 +1,7 @@
 
-<p align="center">
-    <font size="10" color="orange"> Hi! I'm Marcin 👋 I'm an applied IT student with passion.</strong></font>
-</p>
+<h2 align="center">
+    <color="orange"> Hi! I'm Marcin 👋 I'm an applied IT student with passion.</strong></font>
+</h2>
 
 - <font size="8"> 📊 Currently learning: <strong>
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="30" height="30"/> Flutter, 
