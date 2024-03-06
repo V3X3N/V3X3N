@@ -1,9 +1,9 @@
 
 <p align="center">
-    <font size="6" color="orange"> Hi! I'm Marcin 👋 I'm an applied IT student with passion.</strong></font>
+    <font size="10" color="orange"> Hi! I'm Marcin 👋 I'm an applied IT student with passion.</strong></font>
 </p>
 
-- <font size="5"> 📊 Currently learning: <strong>
+- <font size="8"> 📊 Currently learning: <strong>
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="30" height="30"/> Flutter, 
     <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit 5" width="30" height="30"/> JUnit 5, 
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="30" height="30"/> Kotlin, 
@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="30" height="30"/> Unity
     </strong></font>
 
-- <font size="5"> 📧 Contact Me: <strong> mkawa022@gmail.com </strong></font>
+- <font size="8"> 📧 Contact Me: <strong> mkawa022@gmail.com </strong></font>
 </p>
 <br>
 
