@@ -19,7 +19,8 @@
 <br>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v3x3n&show_icons=true&locale=en&theme=codeSTACKr&layout=compact" alt="v3x3n" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v3x3n&show_icons=true&locale=en&theme=codeSTACKr&layout=compact" alt="v3x3n" width="400" height="200"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=V3X3N&theme=codeSTACKr" alt="v3x3n" />
 </p>
 <br>
 
