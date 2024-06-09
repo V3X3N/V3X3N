@@ -1,6 +1,6 @@
 
 <p align="center">
-    <font size="6" color="orange"> Hi! I'm Marcin 👋 I'm an Computer Science student with passion.</strong></font>
+    <font size="6" color="orange"> Hi! I'm Marcin 👋 I'm a Computer Science student with passion.</strong></font>
 </p>
 
 <p>
