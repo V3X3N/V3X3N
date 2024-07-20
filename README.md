@@ -7,8 +7,10 @@
 
 - <font size="5"> 📊 Currently learning:
   <strong>
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="30" height="30"/> Flutter,
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Unity" width="30" height="30"/> Firebase
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="30" height="30"/> Flutter,
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="30" height="30"/> Firebase,
+      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="30" height="30"/> Unity,
+      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="30" height="30"/> C#,
   </strong>
   </font>
 
