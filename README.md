@@ -9,8 +9,7 @@
   <strong>
       <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="30" height="30"/> Flutter,
       <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="30" height="30"/> Firebase,
-      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="30" height="30"/> Unity,
-      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="30" height="30"/> C#,
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="30" height="30"/> Kotlin,
   </strong>
   </font>
 
@@ -27,8 +26,9 @@
 
 <h2 align="left">Back end:</h2>
 <p>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/></a>
     <a href="https://www.python.org" target="_self" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="60" height="60"/></a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/></a>
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="60" height="60"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="cs" width="60" height="60"/></a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="60" height="60"/></a>
 </p>
@@ -36,14 +36,15 @@
 
 <h2 align="left">Front end:</h2>
 <p>
+    <a href="https://react.dev//" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="60" height="60"/></a>
-    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="60" height="60"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="60" height="60"/></a>
 </p>
 <br>
 
 <h2 align="left">Database:</h2>
 <p>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="60" height="60"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="60"/></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="60" height="60"/></a>
 </p>
@@ -66,6 +67,6 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="60" height="60"/></a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="60" height="60"/></a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/></a>
-    
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="60" height="60"/></a>
 </p>
 <br>
